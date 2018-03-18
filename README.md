@@ -11,7 +11,7 @@
 
 <div align="center">  
   <strong>Show some :heart: and star the repo to support the project </strong>
-  <br/><br/>
+  <br/>
     <!-- GitHub stars -->
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
         <img src="https://img.shields.io/github/stars/sidagarwal04/computervision-imageanalysis.svg?style=social&logo=github&label=Stars"/>
