@@ -8,10 +8,9 @@
   <strong>Performing Image Recognition using OpenCV and Image Analysis. </strong>
 </div>
 <br/>
-<div align="center">
-    
+<div align="center">  
     <!-- GitHub stars -->
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
-        <img src="https://img.shields.io/github/stars/sidagarwal04/shields.svg?style=social&logo=github&label=Stars/>
+        <img src="https://img.shields.io/github/stars/sidagarwal04/computervision-imageanalysis.svg?style=social&logo=github&label=Stars"/>
     </a>
 </div>   
