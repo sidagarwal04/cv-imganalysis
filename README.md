@@ -11,7 +11,7 @@
 
 <div align="center">  
   <strong>Show some :heart: and star the repo to support the project </strong>
-  <br/>
+  <br/><br/>
     <!-- GitHub stars -->
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
         <img src="https://img.shields.io/github/stars/sidagarwal04/computervision-imageanalysis.svg?style=social&logo=github&label=Stars"/>
@@ -28,7 +28,6 @@
     <a href="https://www.paypal.me/sidagarwal04/5">
         <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
     </a>
-    <br/>
      <!-- GitHub followers -->
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
         <img src="https://img.shields.io/github/followers/sidagarwal04.svg?style=social&label=Follow%20@sidagarwal04"/>
@@ -37,4 +36,5 @@
     <a href="https://twitter.com/sidagarwal04">
         <img src="https://img.shields.io/twitter/follow/sidagarwal04.svg?style=social"/>
     </a>
+  <br/>
 </div>   
