@@ -10,9 +10,31 @@
 <br/>
 
 <div align="center">  
-### Show some :heart: and star the repo to support the project
+  <strong>Show some :heart: and star the repo to support the project </strong>
+  <br/>
     <!-- GitHub stars -->
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
         <img src="https://img.shields.io/github/stars/sidagarwal04/computervision-imageanalysis.svg?style=social&logo=github&label=Stars"/>
+    </a>
+  <!-- GitHub forks -->
+    <a href="https://github.com/sidagarwal04/computervision-imageanalysis/fork">
+        <img src="hhttps://img.shields.io/github/forks/sidagarwal04/computervision-imageanalysis.svg?style=social&label=Fork"/>
+    </a>
+   <!-- GitHub watchers -->
+    <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
+        <img src="https://img.shields.io/github/watchers/sidagarwal04/computervision-imageanalysis.svg?style=social&label=Watch"/>
+    </a>
+    <!-- Paypal Me! -->
+    <a href="https://www.paypal.me/sidagarwal04/5">
+        <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+    </a>
+    <br/>
+     <!-- GitHub followers -->
+    <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
+        <img src="https://img.shields.io/github/followers/sidagarwal04.svg?style=social&label=Follow%20@sidagarwal04"/>
+    </a>
+    <!-- Twitter Follow -->
+    <a href="https://twitter.com/sidagarwal04">
+        <img src="https://img.shields.io/twitter/follow/sidagarwal04.svg?style=social"/>
     </a>
 </div>   
