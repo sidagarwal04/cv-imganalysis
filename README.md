@@ -37,4 +37,12 @@
         <img src="https://img.shields.io/twitter/follow/sidagarwal04.svg?style=social"/>
     </a>
   <br/>
-</div>   
+</div>  
+<div align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://twitter.com/sidagarwal04">Siddhant Agarwal</a> and
+  <a href="https://github.com/sidagarwal04/computervision-imageanalysis/graphs/contributors">
+    contributors
+  </a>
+</div>
+<br/>
