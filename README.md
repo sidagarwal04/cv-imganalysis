@@ -13,16 +13,16 @@
   <strong>Show some :heart: and star the repo to support the project </strong>
   <br/>
     <!-- GitHub stars -->
-    <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
-        <img src="https://img.shields.io/github/stars/sidagarwal04/computervision-imageanalysis.svg?style=social&logo=github&label=Stars"/>
+    <a href="https://github.com/sidagarwal04/cv-imganalysis">
+        <img src="https://img.shields.io/github/stars/sidagarwal04/cv-imganalysis.svg?style=social&logo=github&label=Stars"/>
     </a>
   <!-- GitHub forks -->
-    <a href="https://github.com/sidagarwal04/computervision-imageanalysis/fork">
-        <img src="hhttps://img.shields.io/github/forks/sidagarwal04/computervision-imageanalysis.svg?style=social&label=Fork"/>
+    <a href="https://github.com/sidagarwal04/cv-imganalysis/fork">
+        <img src="hhttps://img.shields.io/github/forks/sidagarwal04/cv-imganalysis.svg?style=social&label=Fork"/>
     </a>
    <!-- GitHub watchers -->
-    <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
-        <img src="https://img.shields.io/github/watchers/sidagarwal04/computervision-imageanalysis.svg?style=social&label=Watch"/>
+    <a href="https://github.com/sidagarwal04/cv-imganalysis">
+        <img src="https://img.shields.io/github/watchers/sidagarwal04/cv-imganalysis.svg?style=social&label=Watch"/>
     </a>
     <!-- Paypal Me! -->
     <a href="https://www.paypal.me/sidagarwal04/5">
@@ -41,7 +41,7 @@
 <div align="center">
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/sidagarwal04">Siddhant Agarwal</a> and
-  <a href="https://github.com/sidagarwal04/computervision-imageanalysis/graphs/contributors">
+  <a href="https://github.com/sidagarwal04/cv-imganalysis/graphs/contributors">
     contributors
   </a>
 </div>
