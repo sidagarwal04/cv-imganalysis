@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
     </a>
      <!-- GitHub followers -->
-    <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
+    <a href="https://github.com/sidagarwal04/">
         <img src="https://img.shields.io/github/followers/sidagarwal04.svg?style=social&label=Follow%20@sidagarwal04"/>
     </a>
     <!-- Twitter Follow -->
