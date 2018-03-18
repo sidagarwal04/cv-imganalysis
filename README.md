@@ -5,10 +5,12 @@
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter"/>
     </a></h1>
 <div align="center">
-  <strong>Performing Image Recognition using OpenCV and Image Analysis. </strong>
+  <strong>Performing Image Recognition using OpenCV and Image Analysis using AWS, GCP and Azure. </strong>
 </div>
 <br/>
+
 <div align="center">  
+### Show some :heart: and star the repo to support the project
     <!-- GitHub stars -->
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
         <img src="https://img.shields.io/github/stars/sidagarwal04/computervision-imageanalysis.svg?style=social&logo=github&label=Stars"/>
