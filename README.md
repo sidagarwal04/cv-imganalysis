@@ -14,4 +14,4 @@
     <a href="https://github.com/sidagarwal04/computervision-imageanalysis">
         <img src="https://img.shields.io/github/stars/sidagarwal04/shields.svg?style=social&logo=github&label=Stars/>
     </a>
-   
+</div>   
